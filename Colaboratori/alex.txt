@@ -1,1 +1,10 @@
-cateaua daca nu ridica coada, cainele nu latra
+#include <stdio.h>
+
+int main(void)
+{
+	int n=10;
+	n++;
+	n--;
+	printf("%d", n);
+	return 0;
+}
